@@ -2,7 +2,7 @@
 <script src="js/vendor/slick.min.js"></script>
 <!-- End SlidesJS Required -->
 <!-- scroll animations -->
-<!-- <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script> -->
+<!-- <script src="https://cdn.jsdelivr.net/gh/michalsnik/aos@2.1.1/dist/aos.js"></script> -->
 <!-- <script type="text/javascript" src="js/vendor/wow.js"></script> -->
   <script>
 //   $(function(){
